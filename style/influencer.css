@@ -141,6 +141,7 @@ nav li a {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 30px;
     row-gap: 30px;
+    margin-left: 100px;
 }
 
 .div-item {
@@ -201,5 +202,24 @@ span {
     font-size: 16px;
     margin-top: 30px;
     margin-left: 1250px;
-    
+
+}
+
+/* Featured products at one place */
+.last-step {
+    margin-left: 100px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #3A3A3A;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-title1 {
+    height: 60px;
+
+}
+
+.last-step1 {
+    justify-content: space-between;
 }
